@@ -6,11 +6,10 @@
 menu:
   Home: /
   Archives: archives
-  Categories: categories
-  Tags: tags
-  About: about
+  # Categories: categories
+  # Tags: tags
+  About: /about
 rss: /atom.xml
-
 
 # Set default keywords (Use a comma to separate)
 keywords: ""
@@ -28,14 +27,12 @@ avatar:
   bottom: 10
   url: https://hexo.io/logo.svg
 
-
 # AboutPage background, support multiple images.
-about_big_image: [css/images/pose01.jpg, https://images.unsplash.com/photo-1464306208223-e0b4495a5553?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=]
-
+# about_big_image: [css/images/pose01.jpg, https://images.unsplash.com/photo-1464306208223-e0b4495a5553?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=]
+about_big_image: [css/images/pose01.jpg]
 
 # Homepage thumbnail
 random_thumb: false
-
 
 # Content
 fancybox: true
@@ -45,12 +42,12 @@ fancybox: true
 sidebar: right
 widgets:
 - search
-- social
-- recent_posts
 - category
-- tag
 - tagcloud
+- recent_posts
 - archive
+- tag
+- social
 
 # Social Links
 # Key is the name of FontAwsome icon.
@@ -98,7 +95,6 @@ google_analytics:
 gauges_analytics:
 baidu_analytics:
 tencent_analytics:
-busuanzi_analytics: true
 twitter:
 google_plus:
 fb_admins:

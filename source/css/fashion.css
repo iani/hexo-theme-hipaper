@@ -560,6 +560,7 @@ object {
 	}
 .site-content {
 	margin: 0 340px 0 0;
+    /* margin: 0 140px 0 0; */
 	}
 .site-sidebar {
 	width: 300px;
@@ -1167,8 +1168,11 @@ ul.widget-tab-nav {
 	}
 
 .site-header-image {
-	max-height:800px; 
-	min-height:500px; 
+	max-height:200px; 
+	/* 
+       max-height:800px; 
+       min-height:500px; */
+    min-height:100px; 
 	overflow: hidden;
 	position: relative;
 }
@@ -1287,7 +1291,7 @@ ul.widget-tab-nav {
 		text-align: center;
 		}
 	.site-header-image > img {
-		height: 500px;
+		height: 100px;   /* 500px; */
 		width: auto;
 		min-width: 100%;
 		display: block;
