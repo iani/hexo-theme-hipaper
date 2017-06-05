@@ -30,7 +30,7 @@ Some tweaks are made to adapt for own use:
  1. Get it from GitHub
 
  ```shell
- $ git clone https://github.com/iTimeTraveler/hexo-theme-hipaper.git themes/hipaper
+ $ git clone https://github.com/iani/hexo-theme-hipaper.git themes/hipaperiz
  ```
  2. Enable
 
@@ -39,7 +39,7 @@ Some tweaks are made to adapt for own use:
  # Extensions
  ## Plugins: http://hexo.io/plugins/
  ## Themes: http://hexo.io/themes/
- theme: hipaper
+ theme: hipaperiz
  ```
  3. Update
 
