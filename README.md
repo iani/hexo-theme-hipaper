@@ -8,6 +8,10 @@ Some tweaks are made to adapt for own use:
 - Narrow header image height
 - Tweak menu
 
+On  6 Jun 2017 11:05 I switched to the /next/ theme: https://iani.github.io/sc-hacks
+
+However, I am keeping the present fork for possible use in the future.
+
 [![Build Status](https://travis-ci.org/iTimeTraveler/hexo-theme-hipaper.svg?branch=master)](https://travis-ci.org/iTimeTraveler/hexo-theme-hipaper)		[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/iTimeTraveler/hexo-theme-hipaper/blob/master/LICENSE)
 
 
